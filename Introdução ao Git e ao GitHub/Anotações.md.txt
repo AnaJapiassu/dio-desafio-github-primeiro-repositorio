@@ -4,7 +4,9 @@
 
 ### O Git é um sistema de controle de versão de arquivos.
 
-### o GitHub é uma plataforma para onde podemos subir os arquivos, podendo ser compartilhados e comentados por outras pessoas. É usado de maneira colaborativa.
+### O GitHub é uma plataforma para onde podemos subir os arquivos, podendo ser compartilhados e comentados por outras pessoas. É usado de maneira colaborativa.
+
+### O Git e o GitHub são de extrema importância para o programador, pois eles contribuem muito com o funcionamento dos projetos.
 
 ### Links úteis:
 
