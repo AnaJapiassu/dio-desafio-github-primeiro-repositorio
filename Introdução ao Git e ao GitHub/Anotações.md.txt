@@ -1,2 +1,10 @@
-### Links úteis
+## Anotações importantes:
+
+
+
+### O Git é um sistema de controle de versão de arquivos.
+
+### o GitHub é uma plataforma para onde podemos subir os arquivos, podendo ser compartilhados e comentados por outras pessoas. É usado de maneira colaborativa.
+
+
 
