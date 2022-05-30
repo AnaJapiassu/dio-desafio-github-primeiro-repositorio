@@ -10,6 +10,3 @@
 
 [Git download](https://git-scm.com/downloads)
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
-
-
-
