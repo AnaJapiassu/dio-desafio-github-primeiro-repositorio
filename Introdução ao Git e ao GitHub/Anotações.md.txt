@@ -6,5 +6,10 @@
 
 ### o GitHub é uma plataforma para onde podemos subir os arquivos, podendo ser compartilhados e comentados por outras pessoas. É usado de maneira colaborativa.
 
+### Links úteis:
+
+[Git download](https://git-scm.com/downloads)
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+
 
 
